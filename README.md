@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 ✌️ My name is Dilmurod, I am 20 years old. I have been engaged in backend development for more than a year, in particular in Php. I am also intersted to learn new languages like Python and Go. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilmurod-Ruziev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilmurod-Ruziev&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmurod-Ruziev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dilmurod-Ruziev)](https://github.com/anuraghazra/github-readme-stats)
