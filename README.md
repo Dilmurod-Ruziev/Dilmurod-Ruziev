@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✌️ My name is Dilmurod, I am 20 years old. I have been engaged in backend development for more than a year, in particular in Php. I am also intersted to learn new languages like Python and Go. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilmurod-Ruziev)](https://github.com/anuraghazra/github-readme-stats)
+
