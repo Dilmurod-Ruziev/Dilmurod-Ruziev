@@ -1,4 +1,5 @@
-### Hi there 👋
+## Welcome👋 
+![Profile views](https://gpvc.arturio.dev/Dilmurod-Ruziev)  
 
 <!--
 **Dilmurod-Ruziev/Dilmurod-Ruziev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## About Me
 ✌️ My name is Dilmurod, I am 20 years old. I have been engaged in backend development for more than a year, in particular in Php. I am also intersted to learn new languages like Python and Go. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
