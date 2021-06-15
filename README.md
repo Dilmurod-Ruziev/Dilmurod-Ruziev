@@ -1,4 +1,4 @@
-## 👨‍💻 Dilmurod Ruziev ![Visitors](https://gpvc.arturio.dev/Dilmurod-Ruziev)  
+## 👨‍💻 Dilmurod Ruziev  
 
 ✌️ My name is Dilmurod, I am 21 years old. I am passionate about the backend side of development and currently studying at INHA University in Tashkent
 
