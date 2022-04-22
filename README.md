@@ -1,10 +1,10 @@
 ## 👨‍💻 Dilmurod Ruziev  
 
-✌️ My name is Dilmurod, I am 21 years old. I am passionate about the backend side of development and currently studying at INHA University in Tashkent
+✌️ My name is Dilmurod, I am 22 years old. I am passionate about the backend side of development and currently studying at INHA University in Tashkent
 
 💻 I have been engaged in backend development for more than a year, in particular in Php. I have created small projects in vanilla Php, as well as in frameworks such as Yii2 and Laravel. But my main interest in Laravel and currently I am working on a blog in Larvael as a side project while working at a full-time job in Tashkent. 
 
-🔮 In the future, I am planning to build new projects by learning new languages like Python and Go. 
+🔮 In the future, I am planning to build new projects by learning new languages like Python. I am also interested on Data Science. 
 
 ## Github Stats 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
